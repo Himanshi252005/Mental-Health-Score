@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.env
+Mental_Health_Model_backup.pkl
